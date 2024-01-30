@@ -1,3 +1,2 @@
 # nvimconfig
-# nvimconfig
-# nvimconfig
+- sourced from theprimeagen
