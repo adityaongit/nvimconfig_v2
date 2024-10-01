@@ -21,6 +21,8 @@ return require('packer').startup(function(use)
 	  end
   })
 
+  use({ "catppuccin/nvim", as = "catppuccin" })
+
   use({
       "folke/trouble.nvim",
       config = function()
