@@ -1,4 +1,4 @@
-# nvimconfig
+# nvim
 
 ## install packer.nvim
 ```bash
